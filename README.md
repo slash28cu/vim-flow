@@ -1,2 +1,2 @@
 # vim-flow
-My vim config files
+All my vim config files
